@@ -6,7 +6,8 @@ Hello there! 👋 I'm Gabriel, a passionate backend developer specializing in C#
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
 </p>
 <HR>
-###About me
+
+### About Me
 
 - Computer Systems Engineering professional.
 - Currently diving deep into backend development.
