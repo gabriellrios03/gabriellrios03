@@ -20,7 +20,7 @@ Hello there! 👋 I'm Gabriel, a passionate backend developer specializing in C#
 ![DotNet](https://img.shields.io/badge/.Net-129?style=flat-square&logo=.net&logoColor=pur)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C#](https://img.shields.io/badge/C Sharp-129?style=flat-square&logo=CSharp&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-129?style=flat-square&logo=CSharp&logoColor=white)
 
 ### Software & Tools
 
